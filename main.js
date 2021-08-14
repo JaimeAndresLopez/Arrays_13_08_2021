@@ -51,4 +51,7 @@ console.log(nuevaLista);
 nuevaLista= ["Jaime","Miguel","Albert","William","Jose","Alfredo"];
 nuevaLista.copyWithin(-4,3);
 console.log(nuevaLista);
+nuevaLista= ["Jaime","Miguel","Albert","William","Jose","Alfredo"];
+nuevaLista.copyWithin(-3,-4,-3);
+console.log(nuevaLista);
 
